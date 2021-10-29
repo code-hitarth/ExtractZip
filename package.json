@@ -1,0 +1,18 @@
+{
+  "name": "ziptask",
+  "version": "1.0.0",
+  "description": "package to extract zip file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitarth Kansara",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "etl": "^0.6.12",
+    "node-stream-zip": "^1.15.0",
+    "pdf.js-extract": "^0.1.5",
+    "unzipper": "^0.10.11"
+  }
+}
